@@ -1,0 +1,30 @@
+body {
+background-color: orange;
+}
+
+header_div {
+background-color: yellow;
+text-color: brown;    
+}
+
+p {
+font-type: Times New Roman;
+font-weight: 10 lbs;
+letter-spacing: 5;
+font-size: 20;
+}
+
+main_div {
+font-type: Comic Sans;
+margin-top: 10;
+button-width: 20;
+font-weight: 15 lbs;
+letter-spacing: 5;
+}
+
+copy_right_footer {
+    background-color: black;
+    text-color: blue;
+    header-width: 30;
+    font-size: 20;
+}
